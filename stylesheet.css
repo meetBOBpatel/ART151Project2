@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    background-color:slategray;
+}
+
+#title{
+    padding-top: 20%;
+}
+
+#title_name{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Ravi Prakash', cursive;
+}
+
+#title_description{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto';
+
+}
+p{
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Kalam', cursive;
+    /* width: 75%; */
+    /* text-align: justify; */
+}
+
+a:link{
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+a:visited {
+    text-decoration: none;
+    color: purple;
+}
+  
+a:hover {
+    color: brown;
+}
